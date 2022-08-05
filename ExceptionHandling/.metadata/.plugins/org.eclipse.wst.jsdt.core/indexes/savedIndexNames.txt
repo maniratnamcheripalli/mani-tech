@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+D:\Mani\ExceptionHandling\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3150567771.index
+2020750820.index
+3867615550.index
+927228431.index
+3820429193.index
+2580310760.index
